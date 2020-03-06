@@ -1,7 +1,11 @@
 ﻿redcar
 ==============================
 
+<<<<<<< HEAD
 This is a much better fix
+=======
+Quick fix from github
+>>>>>>> ba9e76a05ade1e1cbd83220cfdf5d4a0a219869f
 
 workshop recdcar
 
